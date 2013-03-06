@@ -1,7 +1,7 @@
 
 ASSN = 4J
 CLASS= cs143
-CLASSDIR= /usr/class/cs143/cool
+CLASSDIR= /usr/local/share/coursera/cs143/cool
 
 SRC= ClassTable.java TreeConstants.java cool-tree.java good.cl bad.cl README
 CSRC = \

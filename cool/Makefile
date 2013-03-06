@@ -35,7 +35,7 @@
 # The COOL_DIR variable should be set to the root directory of the
 # distribution (the directory where this Makefile is).
 #
-COOL_DIR=/usr/class/cs143/cool
+COOL_DIR=/usr/local/share/coursera/cs143/cool
 
 # SCRIPT_SHELL should be set to the full
 # pathname of an `sh'-compatible shell
